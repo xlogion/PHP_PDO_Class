@@ -4,7 +4,7 @@ define("XLOGION_DB_HOST", '127.0.0.1');
 define("XLOGION_DB_PORT", 3306);
 define("XLOGION_DB_NAME", 'test');
 define("XLOGION_DB_USERNAME", 'root');
-define("XLOGION_DB_PASSWORD", '1221hui');
+define("XLOGION_DB_PASSWORD", '');
 
 $db_config=array(
 			'host' => XLOGION_DB_HOST,
