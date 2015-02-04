@@ -264,7 +264,7 @@
 	
 		使用场景如下图红框
 
-		![](img\page.png)
+		![](https://raw.githubusercontent.com/xlogion/PHP_PDO_Class/master/img/page.png)
 
 - ### 例子 
 	
